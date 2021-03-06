@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2021 MisplacedDevelopment
+Function get_bookmark_paths() adapted from https://github.com/zrzka/blackmamba which is Copyright (c) 2017 Robert Vojta (@robertvojta)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
